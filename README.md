@@ -10,6 +10,7 @@ Rule of the game:
 4) Interface for boys  :
    ![example](pet-project/src/main/resources/boy.png)
 5) To exit enter 444.
+   
 The program is developed in Java.
 
 by rossartb
